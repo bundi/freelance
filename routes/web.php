@@ -22,3 +22,6 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/question/create', 'questionController@create');
 Route::post('/question', 'questionController@store');
 Route::get('/question', 'questionController@index');
+
+Route::get('/execute-payment', 'PaymentController@execute');
+Route::post('/create-payment', 'PaymentController@create')->name('create-payment');

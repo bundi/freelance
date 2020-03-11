@@ -57,7 +57,12 @@
                         <h4>Price:${{$question->price}}</h4>
                     </div>
                     <div class="card-body justify-content-end" style="align-content: center;">
-                        <div id="paypal-button"></div>
+                        <form action="{{ route('create-payment') }}" method="post">
+                            @csrf
+                            <input type="hidden" name="amount" value="{{ $question->price }}">
+
+                            <input type="submit" value="Pay Now">
+                        </form>
                     </div>
                 </div>
             </div>

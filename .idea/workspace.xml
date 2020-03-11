@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78e9b2ab-990f-4711-bbca-15549b105bd0" name="Default Changelist" comment="" />
+    <list default="true" id="78e9b2ab-990f-4711-bbca-15549b105bd0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/freelance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/freelance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/questions/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/questions/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +20,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -102,9 +113,11 @@
       <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
       <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
       <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/paypal/rest-api-sdk-php" />
     </include_path>
   </component>
   <component name="ProjectId" id="1YJC5onHErGEVVq6kkzofmJARcA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -140,6 +153,10 @@
       <workItem from="1582697774773" duration="6400000" />
       <workItem from="1582899815609" duration="1250000" />
       <workItem from="1582956369560" duration="16663000" />
+      <workItem from="1583304976444" duration="643000" />
+      <workItem from="1583758224741" duration="599000" />
+      <workItem from="1583759646054" duration="599000" />
+      <workItem from="1583908873694" duration="1203000" />
     </task>
     <servers />
   </component>
@@ -151,13 +168,13 @@
       <screen x="0" y="27" width="1366" height="702" />
     </state>
     <state x="416" y="135" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.27.1366.702@0.27.1366.702" timestamp="1583042443070" />
-    <state x="337" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1582956386603">
+    <state x="337" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1583774313736">
       <screen x="0" y="27" width="1366" height="702" />
     </state>
-    <state x="337" y="204" key="com.intellij.ide.util.TipDialog/0.27.1366.702@0.27.1366.702" timestamp="1582956386603" />
-    <state x="549" y="140" width="672" height="381" key="search.everywhere.popup" timestamp="1582968557086">
+    <state x="337" y="204" key="com.intellij.ide.util.TipDialog/0.27.1366.702@0.27.1366.702" timestamp="1583774313736" />
+    <state x="549" y="140" width="672" height="381" key="search.everywhere.popup" timestamp="1583909187250">
       <screen x="0" y="27" width="1366" height="702" />
     </state>
-    <state x="549" y="140" width="672" height="381" key="search.everywhere.popup/0.27.1366.702@0.27.1366.702" timestamp="1582968557086" />
+    <state x="549" y="140" width="672" height="381" key="search.everywhere.popup/0.27.1366.702@0.27.1366.702" timestamp="1583909187250" />
   </component>
 </project>
